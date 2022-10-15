@@ -1,1 +1,1 @@
-Hi i am front-end developer (student)
+Front-end developer
