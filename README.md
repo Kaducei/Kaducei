@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TT+Lakes&size=40&pause=1000&color=0FDFC8&background=28FFA000&multiline=true&width=1000&lines=I+admit+nothing+but+my+sadness+that+you're+gone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TT+Lakes&size=40&pause=1000&color=00CBDF&background=28FFA000&multiline=true&width=1000&height=60&lines=I+admit+nothing+but+my+sadness+that+you're+gone)](https://git.io/typing-svg)
 
 ![cWM1YeDoqfk](https://user-images.githubusercontent.com/72487714/204937762-06bea86d-9deb-47dc-b382-6189df4b7515.jpg)
 ### :hammer_and_wrench: Languages and Tools :
