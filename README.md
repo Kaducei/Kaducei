@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TT+Lakes&size=40&pause=1000&color=0ADF0F&background=28FFA000&center=true&multiline=true&width=1000&height=100&lines=I+admit+nothing+but+my+sadness+that+you're+gone)](https://git.io/typing-svg)
 
 ![cWM1YeDoqfk](https://user-images.githubusercontent.com/72487714/204937762-06bea86d-9deb-47dc-b382-6189df4b7515.jpg)
 ### :hammer_and_wrench: Languages and Tools :
@@ -17,4 +18,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaducei&layout=compact&hide=html&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=DF0202&width=435&lines=expected+'i+hate+u'+to+equal+'i+love+u')](https://git.io/typing-svg)
+
