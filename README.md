@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TT+Lakes&size=35&pause=1000&color=00DF14&background=28FFA000&multiline=true&width=1000&height=60&lines=Matrix+has+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TT+Lakes&size=35&pause=1000&color=00DF14&background=28FFA000&multiline=true&width=1000&height=60&lines=Matrix+has+you+.+.+.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TT+Lakes&size=40&pause=5000&color=F70000&multiline=true&width=1000&height=60&lines=Languages+and+Tools+%3A+)](https://git.io/typing-svg)
 <div>
