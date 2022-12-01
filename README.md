@@ -17,4 +17,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaducei&layout=compact&hide=html&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=1000&color=14C3FF&width=435&lines=expected+'i+hate+u';to+equal+'i+love+u')](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=DF0202&width=435&lines=expected+'i+hate+u'+to+equal+'i+love+u')](https://git.io/typing-svg)
